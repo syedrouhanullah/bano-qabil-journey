@@ -1,7 +1,7 @@
 print("===== Student Information =====")
 
 name = input("Enter Your Name: ")
-father_name = input("Enter Your Father Name: ")
+father_name = inpcut("Enter Your Father Name: ")
 roll_no = input("Enter Your Roll Number: ")
 course = input("Enter Your Course: ")
 age = input("Enter Your Age: ")
